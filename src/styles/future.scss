@@ -1,0 +1,149 @@
+.future{
+&__row{
+  display: flex;
+}
+  &__right{
+    background: #f1f0ed;
+  }
+  &__texts{
+    margin: 400px 100px 0 40px;
+  }
+  &__title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #67645e;
+    margin-bottom: 30px;
+  }
+  &__desc{
+    font-weight: 500;
+    font-size: 20px;
+    color: #67645e;
+  }
+  .our{
+    &__row{
+      background: white;
+      padding: 0 0 50px 0;
+    }
+    &__title{
+      font-weight: 700;
+      font-size: 40px;
+      color: #67645e;
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    &__cards{
+      display: flex;
+      justify-content: space-between;
+      column-gap: 20px;
+      text-align: center;
+    }
+    &__card{
+      width: 332px;
+      background: #67645e;
+      padding: 200px 20px;
+      border-radius: 10px;
+    }
+    &__subtitle{
+      font-size: 28px;
+      color: white;
+      margin-bottom: 20px;
+    }
+    &__text{
+      font-size: 19px;
+      color: white;
+    }
+  }
+  .focus{
+    &__row{
+      background: #f1f0ed;
+      padding: 100px;
+      border-radius: 10px;
+    }
+    &__texts{
+      text-align: center;
+      margin: 0 200px;
+    }
+    &__title{
+      font-size: 24px;
+      color: #67645e;
+      margin-bottom: 20px;
+    }
+    &__text{
+      font-size: 30px;
+      color: #67645e;
+    }
+  }
+  .partners{
+    padding: 30px 0;
+    &__title{
+      font-weight: 700;
+      font-size: 35px;
+      color: #67645e;
+      text-align: center;
+      margin-bottom: 40px;
+    }
+  }
+  .ongoing{
+    &__row{
+      display: flex;
+      margin-bottom: 50px;
+    }
+    &__links{
+      text-align: center;
+      margin: 20px 0;
+    }
+    &__link{
+      border-radius: 40px;
+      border: 1.5px solid #67645e;
+      color: #67645e;
+      padding: 5px 35px;
+      background: none;
+      font-size: 18px;
+      font-weight: 500;
+      cursor: pointer;
+      margin: 20px 0;
+    }
+    &__link:hover{
+      background: white;
+    }
+  }
+  .loom{
+    &__row{
+        background: #f1f0ed;
+        padding: 150px;
+        border-radius: 10px;
+        margin: 50px 0;
+      }
+    &__texts{
+      text-align: center;
+      color: #67645e;
+      margin: 0 300px;
+    }
+    &__title{
+      font-size: 33px;
+      margin-bottom: 20px;
+    }
+    &__text{
+      font-size: 18px;
+      padding-bottom: 20px;
+    }
+  }
+  .moms{
+    &__left{
+      background: #f1f0ed;
+    }
+  }
+  .accion{
+    &__texts{
+      margin: 200px 100px 0 40px;
+    }
+    &__title{
+      font-weight: 700;
+      font-size: 35px;
+      color: #67645e;
+      margin-bottom: 30px;
+      text-align: center;
+    }
+
+  }
+}

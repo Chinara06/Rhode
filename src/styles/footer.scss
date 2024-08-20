@@ -1,0 +1,43 @@
+.footer{
+  &__row{
+    background: #f1f0ed;
+    margin: 30px 0 0;
+    border-radius: 10px;
+  }
+  &__top{
+
+  }
+  &__title{
+    font-weight: 800;
+    font-size: 400px;
+    text-align: center;
+    color: #67645e;
+  }
+  &__line{
+    border-top: 1px solid #67645e; /* Толщина и цвет линии */
+    width: 100%;
+  }
+  &__bottom{
+    margin: 50px 50px;
+    &-menu{
+      display: flex;
+      column-gap: 100px;
+    }
+    &-title{
+      color: #67645e;
+      font-size: 20px;
+      margin-bottom: 15px;
+    }
+    &-item{
+      color: #67645e;
+      font-size: 18px;
+      margin-bottom: 15px;
+      cursor: pointer;
+      align-items: center;
+
+      a{
+        color: #67645e;
+      }
+    }
+  }
+}

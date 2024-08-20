@@ -1,0 +1,45 @@
+.header{
+  margin-top: 20px;
+  &__nav{
+    background: #f1f0ed;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  &__menu {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 140px;
+    padding: 10px 20px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #67645e;
+    align-items: center;
+  }
+    &__items{
+      cursor: pointer;
+      color: #67645e;
+    }
+    &__items:hover{
+      color: white;
+      font-size: 21px;
+    }
+
+  &__rhode{
+    color: #67645e;
+    font-size: 50px;
+    font-weight: 900;
+  }
+  &__rhode:hover{
+    color: white;
+    font-size: 51px;
+  }
+  &__img{
+    position: relative;
+    height: 100vh;
+  }
+  &__item{
+    svg{
+      color: white;
+    }
+  }
+}

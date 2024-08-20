@@ -1,0 +1,37 @@
+.more{
+  &__row{
+    display: flex;
+    padding: 50px;
+    column-gap: 100px;
+    align-items: center;
+  }
+  &__title{
+    font-size: 30px;
+    color: #67645e;
+    margin-bottom: 30px;
+  }
+  &__subtitle{
+    font-size: 20px;
+    color: #67645e;
+    margin-bottom: 30px;
+  }
+  &__price{
+    font-size: 30px;
+    color: #67645e;
+    margin-bottom: 30px;
+  }
+  &__btn{
+    button{
+      padding: 10px 40px;
+      background: #f1f0ed;
+      border: 1px solid #67645e;
+      color: #67645e;
+      border-radius: 30px;
+      font-size: 20px;
+      margin-top: 30px;
+    }
+    button:hover{
+      background: #FFFFFF;
+    }
+  }
+}

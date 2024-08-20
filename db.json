@@ -1,0 +1,456 @@
+{
+  "lip": [
+    {
+      "id": 1,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/Piggy-Hero-4_Desktop_d131a90c-169b-43ed-b34d-9e18c791b664_2000x.jpg?v=1717787526",
+      "name": "blush",
+      "title": "pocket blush",
+      "subtitle": "The natural flush",
+      "text": "A little blush for a little flush. Our on-the-go cream blush wakes up cheeks and lips with a satiny, diffused flush that melts on smoothly and stays all day. It’s a lightweight formula that hydrates skin for baby-soft cheeks and leaves a glowy finish without a greasy feel. \nSize: 5.3g / 0.18 oz.\n\n",
+      "price": "$24.00",
+      "colors": [
+        {
+          "id": 1,
+          "color": "baby pink"
+        },
+        {
+          "id": 2,
+          "color": "hot pink"
+        },
+        {
+          "id": 3,
+          "color": "bright coral"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/guavapspritz-hero_2x_568638a3-f746-491f-b068-547d34c89232_2000x.jpg?v=1718257119",
+      "name": "tint",
+      "title": "peptide lip tint",
+      "subtitle": "The tinted lip layer",
+      "text": "Meet Lip Tint. Sheer-but-buildable color that melts onto lips for a hint of tint and rich, glossy finish. The nourishing, fragrance-free formula leaves lips feeling hydrated and visibly plump. Size: 10ml / .3 fl oz.",
+      "price": "$18.00",
+      "colors": [
+        {
+          "id": 1,
+          "color": "baby pink"
+        },
+        {
+          "id": 2,
+          "color": "neutral peach"
+        },
+        {
+          "id": 3,
+          "color": "crushed berry"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/tint-trio-hero-1_2000x.jpg?v=1721691807",
+      "name": "lip trio",
+      "title": "the summer lip trio",
+      "subtitle": "Three limited edition shades",
+      "text": "A collection of three limited edition Peptide Lip Tints in juicy summer shades. Our nourishing formula is packed with high-performance ingredients to visibly hydrate and plump while leaving a sheer wash of bright color.\n\nSize: 10ml / .3 fl oz. each\nLimited edition set includes: Three fragrance-free shades of Peptide Lip Tint in Shortcake, Peach Pit, and Guava Spritz",
+      "price": "$49.00",
+      "colors": [
+        {
+          "id": 1,
+          "color": "baby pink"
+        },
+        {
+          "id": 2,
+          "color": "hot peach"
+        },
+        {
+          "id": 3,
+          "color": "bright coral"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/hero-5_2000x.jpg?v=1688683993",
+      "name": "treat",
+      "title": "peptide lip treatment",
+      "subtitle": "The nourishing lip layer",
+      "text": "Meet our new rhode vanilla peptide lip treatment (previously vanilla cake) — same iconic flavor with a new name in our new head-to-toe glazed packaging. \n\nA nourishing treat for visibly plump, pillowy-soft lips — day or night. This dreamy formula leaves lips looking glossy and works hard to nourish and moisturize dry lips. Size: 10ml / .3 fl oz.",
+      "price": "$18.00",
+      "colors": [
+        {
+          "id": 1,
+          "color": "rhode vanilla"
+        },
+        {
+          "id": 2,
+          "color": "salted caramel"
+        },
+        {
+          "id": 3,
+          "color": "watermelon slice"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/PDP-Desktop-guavaspritz_2000x.jpg?v=1718206739",
+      "name": "case",
+      "title": "summer lip case",
+      "subtitle": "Four limited edition colors",
+      "text": "A silicone case for your phone that keeps your lip on hand. Our bubble design has a silky, soft touch feel and a puffy back for easy gripping. Compatible with iPhone 14 or 15 Pro/Pro Max and your favorite Peptide Lip Treatment or Tint.",
+      "price": "$35.00"
+    },
+    {
+      "id": 6,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/PDP-lip-case-1-d_2000x.jpg?v=1714079966",
+      "name": "case",
+      "title": "lip case",
+      "subtitle": "lip case",
+      "text": "A silicone, bubble case for your phone that keeps your lip on hand. Our design has a silky, soft touch feel and a puffy back for easy gripping. Compatible with iPhone 14 or 15 Pro/Pro Max and your favorite Peptide Lip Treatment or Tint.",
+      "price": "$35.00"
+    }
+  ],
+  "skin": [
+    {
+      "id": 1,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/PDP-Cleanser-1_95039e96-fbec-4973-9527-11261dc5c2ac_2000x.jpg?v=1721337061",
+      "name": "cleanse",
+      "title": "pineapple refresh",
+      "subtitle": "The daily cleanser",
+      "text": "The first step in your rhode routine. A refreshing balm-to-lather daily cleanser formulated with polyglutamic acid (aka PGA), green tea extract, and pineapple enzyme to leave your skin clean, soft, and bouncy post-rinse. Gentle enough for morning and evening use + safe for sensitive skin. Size: 150ml/ 5fl oz.",
+      "price": "$28.00"
+    },
+    {
+      "id": 2,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/glazing-milk-pdp-desktop_2000x.jpg?v=1686006325",
+      "name": "prep",
+      "title": "glazing milk",
+      "subtitle": "The essential prep layer",
+      "text": "A nutrient-rich, lightweight essence that boosts barrier function and provides immediate, luminous hydration. Hailey's essential prep step to calm skin and begin the rhode routine. \n\nSame glazing formula, now in our new head-to-toe glazed packaging. Size: 140ml/ 4.7 fl oz.",
+      "price": "$30.00"
+    },
+    {
+      "id": 3,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/Hero-2_3_2000x.jpg?v=1699985925",
+      "name": "glaze",
+      "title": "peptide glazing fluid",
+      "subtitle": "The dewy hydration layer",
+      "text": "Hailey’s signature step to dewy, glazed skin. A lightweight, quick-absorbing, gel serum that visibly plumps and hydrates to support a healthy-looking skin barrier. \n\nSame glazing formula, now in our new head-to-toe glazed packaging. Size: 50ml / 1.7oz.",
+      "price": "$30.00"
+    },
+    {
+      "id": 4,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/BRC_1_2000x.jpg?v=1652299861",
+      "name": "restore",
+      "title": "barrier restore cream",
+      "subtitle": "The rich recovery layer",
+      "text": "Rich, but lightweight, cream moisturizer to comfort, soothe, and restore the skin barrier. Our antioxidant peptide powerhouse delivers hydrated, smoother, softer skin over time. Size: 50ml/ 1.7oz.",
+      "price": "$30.00"
+    }
+  ],
+  "sets": [
+    {
+      "id": 1,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/coral-duo-hero-1_2000x.jpg?v=1718244707",
+      "name": "duo",
+      "title": "the coral duo",
+      "subtitle": "Pocket Blush + Peptide Lip Tint",
+      "text": "A full look that fits in your pocket for glowy cheeks and glossy lips on-the-go. Each duo combines a paired shade of Pocket Blush with a limited edition summer Peptide Lip Tint to wear together for a juicy, monochromatic look. Pocket Blush gives cheeks and lips a satiny, diffused flush, while Peptide Lip Tint melts onto lips for sheer-but-buildable color. \n\nIncludes 2 full size products: Pocket Blush in Spicy Marg and Peptide Lip Tint in Guava Spritz",
+      "price": "$42.00"
+    },
+    {
+      "id": 2,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/tint-trio-hero-1_2000x.jpg?v=1721691807",
+      "name": "trio",
+      "title": "the summer lip trio",
+      "subtitle": "Three limited edition shades",
+      "text": "A collection of three limited edition Peptide Lip Tints in juicy summer shades. Our nourishing formula is packed with high-performance ingredients to visibly hydrate and plump while leaving a sheer wash of bright color.\n\nSize: 10ml / .3 fl oz. each\nLimited edition set includes: Three fragrance-free shades of Peptide Lip Tint in Shortcake, Peach Pit, and Guava Spritz",
+      "price": "$49.00",
+      "colors": [
+        {
+          "id": 1,
+          "color": "baby pink"
+        },
+        {
+          "id": 2,
+          "color": "hot peach"
+        },
+        {
+          "id": 3,
+          "color": "bright coral"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/quad-hero-4-d_2000x.jpg?v=1695268605",
+      "name": "tints",
+      "title": "the peptide lip tints",
+      "subtitle": "All four shades together",
+      "text": "Our complete lip tint collection of sheer-but-buildable shades that melt onto lips for a rich, glossy finish.\nIncludes: All four fragrance free shades of Peptide Lip Tint in Ribbon, Raspberry Jelly, Toast and Espresso\n\nSize: 10ml / .3 fl oz each.",
+      "price": "$65.00"
+    },
+    {
+      "id": 4,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/lip-treat-set-hero-1-desktop_2000x.jpg?v=1722988151",
+      "name": "treats",
+      "title": "the peptide lip treatments",
+      "subtitle": "All four scents together",
+      "text": "Our complete lip treatment collection for visibly plump, pillowy-soft lips — day or night. This dreamy formula leaves lips looking glossy and works hard to nourish and moisturize dry lips.\n\nIncludes: All four scents of Peptide Lip Treatment in rhode Vanilla, Salted Caramel, Watermelon Slice, and Unscented \n\nSize: 10ml / .3 fl oz each.",
+      "price": "$65.00"
+    },
+    {
+      "id": 5,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/Hero-4_133d8295-b300-4627-befe-8875e1e5342d_2000x.jpg?v=1710915438",
+      "name": "the kit",
+      "title": "the rhode kit",
+      "subtitle": "Four daily skin essentials",
+      "text": "Meet your new classics, all bundled up in the rhode bubble bag. Our tried-and-true skincare essentials are formulated for ultimate barrier nourishment, feel dreamy on your skin, and multitask in your routine. Reach for them morning and night, use solo or with other skincare, mix with makeup, and take on your travels.",
+      "price": "$109"
+    },
+    {
+      "id": 6,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/Hero-1-Desktop_2000x.jpg?v=1708994816",
+      "name": "the set",
+      "title": "the barrier set",
+      "subtitle": "Skin nourishing trio",
+      "text": "Three essential formulas that nourish your barrier to deliver glazed, glowy skin. This collection works together to prep, glaze, and restore your skin for a hydrated and happy barrier. Fits effortlessly into your morning and evening skincare routine and safe for all skin types.\n\nIncludes 3 full size products: Glazing Milk, Peptide Glazing Fluid, Barrier Restore Cream",
+      "price": "$82"
+    },
+    {
+      "id": 7,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/Blush-Set-Hero-1_Desktop_2e091f02-ec9b-4c11-80ae-b6d7cda0f6b9_2000x.jpg?v=1717702499",
+      "name": "the set",
+      "title": "the pocket blushes",
+      "subtitle": "All six shades together ",
+      "text": "The complete collection of Pocket Blush in all six shades. Our on-the-go cream blush wakes up cheeks and lips with a satiny, diffused flush that melts on smoothly and stays all day. It’s a lightweight formula that hydrates skin for baby-soft cheeks and leaves a glowy finish without a greasy feel.",
+      "price": "$130"
+    }
+  ],
+  "all": [
+    {
+      "id": 1,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/Piggy-Hero-4_Desktop_d131a90c-169b-43ed-b34d-9e18c791b664_2000x.jpg?v=1717787526",
+      "name": "blush",
+      "title": "pocket blush",
+      "subtitle": "The natural flush",
+      "text": "A little blush for a little flush. Our on-the-go cream blush wakes up cheeks and lips with a satiny, diffused flush that melts on smoothly and stays all day. It’s a lightweight formula that hydrates skin for baby-soft cheeks and leaves a glowy finish without a greasy feel. \nSize: 5.3g / 0.18 oz.\n\n",
+      "price": "$24.00",
+      "colors": [
+        {
+          "id": 1,
+          "color": "baby pink"
+        },
+        {
+          "id": 2,
+          "color": "hot pink"
+        },
+        {
+          "id": 3,
+          "color": "bright coral"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/guavapspritz-hero_2x_568638a3-f746-491f-b068-547d34c89232_2000x.jpg?v=1718257119",
+      "name": "tint",
+      "title": "peptide lip tint",
+      "subtitle": "The tinted lip layer",
+      "text": "Meet Lip Tint. Sheer-but-buildable color that melts onto lips for a hint of tint and rich, glossy finish. The nourishing, fragrance-free formula leaves lips feeling hydrated and visibly plump. Size: 10ml / .3 fl oz.",
+      "price": "$18.00",
+      "colors": [
+        {
+          "id": 1,
+          "color": "baby pink"
+        },
+        {
+          "id": 2,
+          "color": "neutral peach"
+        },
+        {
+          "id": 3,
+          "color": "crushed berry"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/tint-trio-hero-1_2000x.jpg?v=1721691807",
+      "name": "lip trio",
+      "title": "the summer lip trio",
+      "subtitle": "Three limited edition shades",
+      "text": "A collection of three limited edition Peptide Lip Tints in juicy summer shades. Our nourishing formula is packed with high-performance ingredients to visibly hydrate and plump while leaving a sheer wash of bright color.\n\nSize: 10ml / .3 fl oz. each\nLimited edition set includes: Three fragrance-free shades of Peptide Lip Tint in Shortcake, Peach Pit, and Guava Spritz",
+      "price": "$49.00",
+      "colors": [
+        {
+          "id": 1,
+          "color": "baby pink"
+        },
+        {
+          "id": 2,
+          "color": "hot peach"
+        },
+        {
+          "id": 3,
+          "color": "bright coral"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/hero-5_2000x.jpg?v=1688683993",
+      "name": "treat",
+      "title": "peptide lip treatment",
+      "subtitle": "The nourishing lip layer",
+      "text": "Meet our new rhode vanilla peptide lip treatment (previously vanilla cake) — same iconic flavor with a new name in our new head-to-toe glazed packaging. \n\nA nourishing treat for visibly plump, pillowy-soft lips — day or night. This dreamy formula leaves lips looking glossy and works hard to nourish and moisturize dry lips. Size: 10ml / .3 fl oz.",
+      "price": "$18.00",
+      "colors": [
+        {
+          "id": 1,
+          "color": "rhode vanilla"
+        },
+        {
+          "id": 2,
+          "color": "salted caramel"
+        },
+        {
+          "id": 3,
+          "color": "watermelon slice"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/PDP-Desktop-guavaspritz_2000x.jpg?v=1718206739",
+      "name": "case",
+      "title": "summer lip case",
+      "subtitle": "Four limited edition colors",
+      "text": "A silicone case for your phone that keeps your lip on hand. Our bubble design has a silky, soft touch feel and a puffy back for easy gripping. Compatible with iPhone 14 or 15 Pro/Pro Max and your favorite Peptide Lip Treatment or Tint.",
+      "price": "$35.00"
+    },
+    {
+      "id": 6,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/PDP-lip-case-1-d_2000x.jpg?v=1714079966",
+      "name": "case",
+      "title": "lip case",
+      "subtitle": "lip case",
+      "text": "A silicone, bubble case for your phone that keeps your lip on hand. Our design has a silky, soft touch feel and a puffy back for easy gripping. Compatible with iPhone 14 or 15 Pro/Pro Max and your favorite Peptide Lip Treatment or Tint.",
+      "price": "$35.00"
+    },
+    {
+      "id": 7,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/PDP-Cleanser-1_95039e96-fbec-4973-9527-11261dc5c2ac_2000x.jpg?v=1721337061",
+      "name": "cleanse",
+      "title": "pineapple refresh",
+      "subtitle": "The daily cleanser",
+      "text": "The first step in your rhode routine. A refreshing balm-to-lather daily cleanser formulated with polyglutamic acid (aka PGA), green tea extract, and pineapple enzyme to leave your skin clean, soft, and bouncy post-rinse. Gentle enough for morning and evening use + safe for sensitive skin. Size: 150ml/ 5fl oz.",
+      "price": "$28.00"
+    },
+    {
+      "id": 8,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/glazing-milk-pdp-desktop_2000x.jpg?v=1686006325",
+      "name": "prep",
+      "title": "glazing milk",
+      "subtitle": "The essential prep layer",
+      "text": "A nutrient-rich, lightweight essence that boosts barrier function and provides immediate, luminous hydration. Hailey's essential prep step to calm skin and begin the rhode routine. \n\nSame glazing formula, now in our new head-to-toe glazed packaging. Size: 140ml/ 4.7 fl oz.",
+      "price": "$30.00"
+    },
+    {
+      "id": 9,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/Hero-2_3_2000x.jpg?v=1699985925",
+      "name": "glaze",
+      "title": "peptide glazing fluid",
+      "subtitle": "The dewy hydration layer",
+      "text": "Hailey’s signature step to dewy, glazed skin. A lightweight, quick-absorbing, gel serum that visibly plumps and hydrates to support a healthy-looking skin barrier. \n\nSame glazing formula, now in our new head-to-toe glazed packaging. Size: 50ml / 1.7oz.",
+      "price": "$30.00"
+    },
+    {
+      "id": 10,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/BRC_1_2000x.jpg?v=1652299861",
+      "name": "restore",
+      "title": "barrier restore cream",
+      "subtitle": "The rich recovery layer",
+      "text": "Rich, but lightweight, cream moisturizer to comfort, soothe, and restore the skin barrier. Our antioxidant peptide powerhouse delivers hydrated, smoother, softer skin over time. Size: 50ml/ 1.7oz.",
+      "price": "$30.00"
+    },
+    {
+      "id": 11,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/coral-duo-hero-1_2000x.jpg?v=1718244707",
+      "name": "duo",
+      "title": "the coral duo",
+      "subtitle": "Pocket Blush + Peptide Lip Tint",
+      "text": "A full look that fits in your pocket for glowy cheeks and glossy lips on-the-go. Each duo combines a paired shade of Pocket Blush with a limited edition summer Peptide Lip Tint to wear together for a juicy, monochromatic look. Pocket Blush gives cheeks and lips a satiny, diffused flush, while Peptide Lip Tint melts onto lips for sheer-but-buildable color. \n\nIncludes 2 full size products: Pocket Blush in Spicy Marg and Peptide Lip Tint in Guava Spritz",
+      "price": "$42.00"
+    },
+    {
+      "id": 12,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/tint-trio-hero-1_2000x.jpg?v=1721691807",
+      "name": "trio",
+      "title": "the summer lip trio",
+      "subtitle": "Three limited edition shades",
+      "text": "A collection of three limited edition Peptide Lip Tints in juicy summer shades. Our nourishing formula is packed with high-performance ingredients to visibly hydrate and plump while leaving a sheer wash of bright color.\n\nSize: 10ml / .3 fl oz. each\nLimited edition set includes: Three fragrance-free shades of Peptide Lip Tint in Shortcake, Peach Pit, and Guava Spritz",
+      "price": "$49.00",
+      "colors": [
+        {
+          "id": 1,
+          "color": "baby pink"
+        },
+        {
+          "id": 2,
+          "color": "hot peach"
+        },
+        {
+          "id": 3,
+          "color": "bright coral"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/quad-hero-4-d_2000x.jpg?v=1695268605",
+      "name": "tints",
+      "title": "the peptide lip tints",
+      "subtitle": "All four shades together",
+      "text": "Our complete lip tint collection of sheer-but-buildable shades that melt onto lips for a rich, glossy finish.\nIncludes: All four fragrance free shades of Peptide Lip Tint in Ribbon, Raspberry Jelly, Toast and Espresso\n\nSize: 10ml / .3 fl oz each.",
+      "price": "$65.00"
+    },
+    {
+      "id": 14,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/lip-treat-set-hero-1-desktop_2000x.jpg?v=1722988151",
+      "name": "treats",
+      "title": "the peptide lip treatments",
+      "subtitle": "All four scents together",
+      "text": "Our complete lip treatment collection for visibly plump, pillowy-soft lips — day or night. This dreamy formula leaves lips looking glossy and works hard to nourish and moisturize dry lips.\n\nIncludes: All four scents of Peptide Lip Treatment in rhode Vanilla, Salted Caramel, Watermelon Slice, and Unscented \n\nSize: 10ml / .3 fl oz each.",
+      "price": "$65.00"
+    },
+    {
+      "id": 15,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/Hero-4_133d8295-b300-4627-befe-8875e1e5342d_2000x.jpg?v=1710915438",
+      "name": "the kit",
+      "title": "the rhode kit",
+      "subtitle": "Four daily skin essentials",
+      "text": "Meet your new classics, all bundled up in the rhode bubble bag. Our tried-and-true skincare essentials are formulated for ultimate barrier nourishment, feel dreamy on your skin, and multitask in your routine. Reach for them morning and night, use solo or with other skincare, mix with makeup, and take on your travels.",
+      "price": "$109"
+    },
+    {
+      "id": 16,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/Hero-1-Desktop_2000x.jpg?v=1708994816",
+      "name": "the set",
+      "title": "the barrier set",
+      "subtitle": "Skin nourishing trio",
+      "text": "Three essential formulas that nourish your barrier to deliver glazed, glowy skin. This collection works together to prep, glaze, and restore your skin for a hydrated and happy barrier. Fits effortlessly into your morning and evening skincare routine and safe for all skin types.\n\nIncludes 3 full size products: Glazing Milk, Peptide Glazing Fluid, Barrier Restore Cream",
+      "price": "$82"
+    },
+    {
+      "id": 17,
+      "image": "https://www.rhodeskin.com/cdn/shop/files/Blush-Set-Hero-1_Desktop_2e091f02-ec9b-4c11-80ae-b6d7cda0f6b9_2000x.jpg?v=1717702499",
+      "name": "the set",
+      "title": "the pocket blushes",
+      "subtitle": "All six shades together ",
+      "text": "The complete collection of Pocket Blush in all six shades. Our on-the-go cream blush wakes up cheeks and lips with a satiny, diffused flush that melts on smoothly and stays all day. It’s a lightweight formula that hydrates skin for baby-soft cheeks and leaves a glowy finish without a greasy feel.",
+      "price": "$130"
+    }
+    ]
+    }

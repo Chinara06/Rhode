@@ -1,0 +1,250 @@
+.about{
+  &__row{
+    align-items: center;
+    text-align: center;
+    background: #f1f0ed;
+    padding: 150px 400px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  &__title{
+    font-size: 25px;
+    color: #67645e;
+    margin-bottom: 20px;
+  }
+  &__text{
+    font-size: 30px;
+    color: #67645e;
+  }
+  .care{
+    &__row{
+      display: flex;
+      margin-top: 40px;
+      background: #f1f0ed;
+      border-radius: 10px;
+    }
+    &__left{
+      padding-top: 300px;
+      width: 50%;
+      align-items: center;
+    }
+    &__right{
+      width: 50%;
+      img{
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+      }
+    }
+    &__texts{
+      align-items: center;
+      padding: 0 0 0 30px;
+      margin: 0 200px 0 0;
+      &-title{
+        font-weight: 700;
+        font-size: 35px;
+        color: #67645e;
+        margin-bottom: 30px;
+      }
+      &-desc{
+        font-weight: 400;
+        font-size: 20px;
+        color: #67645e;
+        margin-bottom: 20px;
+      }
+    }
+  }
+  .swiper {
+    padding: 30px 0;
+
+    &__row {
+      background: #f1f0ed;
+      border-radius: 10px;
+      padding: 40px;
+    }
+
+    &__texts {
+      margin-bottom: 40px;
+      display: flex;
+      column-gap: 600px;
+      align-items: center;
+    }
+
+    &__title {
+      font-weight: 700;
+      font-size: 35px;
+      color: #67645e;
+    }
+
+    &__text {
+      font-size: 18px;
+      color: #67645e;
+    }
+
+    &__cards {
+      display: flex;
+      column-gap: 30px;
+    }
+
+    &__card {
+      img {
+        border-radius: 10px;
+        margin-bottom: 15px;
+      }
+    }
+
+    &__subtitle {
+      font-weight: 600;
+      font-size: 22px;
+      color: #67645e;
+      margin-bottom: 15px;
+    }
+
+    &__desc {
+      font-size: 16px;
+      color: #67645e;
+    }
+
+    .custom-button {
+      position: absolute;
+      top: 60%;
+      transform: translateY(-50%);
+      z-index: 10;
+      background: #F5F5F5;
+      padding: 10px 15px;
+      border-radius: 50%;
+      cursor: pointer;
+    }
+    .custom-swiper-button-prev {
+      left: 50px;
+      color: #708090;
+    }
+
+    .custom-swiper-button-next {
+      right: 50px;
+      color: #708090;
+    }
+
+    .custom-button:hover {
+      background-color: rgba(0, 0, 0, 0.8);
+    }
+  }
+  .meet{
+    &__row{
+      background: #f1f0ed;
+      border-radius: 10px;
+      padding: 40px;
+    }
+    &__title{
+      font-weight: 700;
+      font-size: 35px;
+      color: #67645e;
+      text-align: center;
+    }
+    &__text{
+      text-align: center;
+      font-size: 18px;
+      color: #67645e;
+      margin: 0 300px 50px;
+    }
+    &__cards{
+      display: flex;
+      align-items: center;
+      text-align: center;
+    }
+    &__card{
+      img{
+        border-radius: 10px;
+      }
+    }
+    &__info{
+      padding: 0 100px;
+    }
+    &__subtitle{
+      font-size: 24px;
+      color: #67645e;
+      margin: 20px 0 10px;
+    }
+    &__desc{
+      font-size: 20px;
+      font-weight: 600;
+      color: #67645e;
+      margin-bottom: 20px;
+    }
+    &__texts{
+      text-align: center;
+      font-size: 18px;
+      color: #67645e;
+    }
+  }
+  .products{
+    &__row{
+      align-items: center;
+      padding: 0 0 100px 0;
+    }
+    &__cards{
+      justify-content: space-between;
+      display: flex;
+      position: relative;
+    }
+    &__card{
+      position: relative;
+      overflow: hidden;
+      border-radius: 10px;
+    }
+    &__title{
+      position: absolute;
+      top:10%;
+      left: 15%;
+      transform: translate(-50%, -50%);
+      color: #67645e;
+      padding: 10px;
+      font-size: 30px;
+      font-weight: 600;
+    }
+    &__img{
+      margin-bottom: 30px;
+    }
+    &__texts{
+      display: flex;
+      justify-content: space-between;
+      padding: 0 10px;
+      align-items: center;
+    }
+    &__titles{
+      font-size: 21px;
+      color: #67645e;
+      margin-bottom: 5px;
+    }
+    &__text{
+      font-size: 20px;
+      color: #67645e;
+    }
+    &__price{
+      font-size: 21px;
+      color: #67645e;
+    }
+    .custom-button {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 10;
+      background: #FFFAF0;
+      padding: 10px 15px;
+      border-radius: 50%;
+      cursor: pointer;
+    }
+    .custom-swiper-button-prev {
+      left: 50px;
+      color: #708090;
+    }
+
+    .custom-swiper-button-next {
+      right: 50px;
+      color: #708090;
+    }
+
+    .custom-button:hover {
+      background-color: rgba(0, 0, 0, 0.8);
+    }
+  }
+}

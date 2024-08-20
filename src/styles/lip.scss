@@ -1,0 +1,24 @@
+.lip{
+  .swiper{
+
+    &__btns{
+      margin: 50px 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      column-gap: 30px;
+    }
+    &__btn{
+      color: #67645e;
+      background: white;
+      padding: 10px 20px;
+      border: 1px solid #67645e;
+      font-size: 20px;
+      border-radius: 30px;
+      cursor: pointer;
+    }
+    &__btn:hover{
+      background: #f1f0ed;
+    }
+  }
+}

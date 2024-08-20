@@ -1,0 +1,114 @@
+.shop{
+  &__row{
+    position: relative;
+  }
+  &__text{
+    position: absolute;
+    transform: translate(-50% , -50%);
+    top: 50%;
+    left: 50%;
+  }
+  &__title{
+    color: white;
+    font-size: 25px;
+  }
+  &__img{
+    img{
+      border-bottom-left-radius: 10px;
+      border-bottom-right-radius: 10px;
+    }
+  }
+  .swiper{
+
+    &__btns{
+      margin: 50px 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      column-gap: 30px;
+    }
+    &__btn{
+      color: #67645e;
+      background: white;
+      padding: 10px 20px;
+      border: 1px solid #67645e;
+      font-size: 20px;
+      border-radius: 30px;
+      cursor: pointer;
+    }
+    &__btn:hover{
+      background: #f1f0ed;
+    }
+  }
+  .products{
+    &__row{
+      align-items: center;
+      padding: 0 0 100px 0;
+    }
+    &__cards{
+      justify-content: space-between;
+      display: flex;
+      position: relative;
+    }
+    &__card{
+      position: relative;
+      overflow: hidden;
+      border-radius: 10px;
+    }
+    &__title{
+      position: absolute;
+      top:10%;
+      left: 15%;
+      transform: translate(-50%, -50%);
+      color: #67645e;
+      padding: 10px;
+      font-size: 30px;
+      font-weight: 600;
+    }
+    &__img{
+      margin-bottom: 30px;
+    }
+    &__texts{
+      display: flex;
+      justify-content: space-between;
+      padding: 0 10px;
+      align-items: center;
+    }
+    &__titles{
+      font-size: 21px;
+      color: #67645e;
+      margin-bottom: 5px;
+    }
+    &__text{
+      font-size: 20px;
+      color: #67645e;
+    }
+    &__price{
+      font-size: 21px;
+      color: #67645e;
+    }
+    .custom-button {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 10;
+      background: #f1f0ed;
+      padding: 10px 15px;
+      border-radius: 50%;
+      cursor: pointer;
+    }
+    .custom-swiper-button-prev {
+      left: 50px;
+      color: #67645e;
+    }
+
+    .custom-swiper-button-next {
+      right: 50px;
+      color: #67645e;
+    }
+
+    .custom-button:hover {
+      background-color: rgba(0, 0, 0, 0.8);
+    }
+  }
+}

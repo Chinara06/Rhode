@@ -1,0 +1,64 @@
+.sets{
+  .swiper{
+
+    &__btns{
+      margin: 50px 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      column-gap: 30px;
+    }
+    &__btn{
+      color: #67645e;
+      background: white;
+      padding: 10px 20px;
+      border: 1px solid #67645e;
+      font-size: 20px;
+      border-radius: 30px;
+      cursor: pointer;
+    }
+    &__btn:hover{
+      background: #f1f0ed;
+    }
+  }
+  &__row{
+    align-items: center;
+    padding: 0 0 100px 0;
+  }
+  &__cards{
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+
+  }
+  &__card{
+    margin-bottom: 100px;
+
+    img{
+      border-radius: 10px;
+    }
+  }
+  &__img{
+    margin-bottom: 30px;
+  }
+  &__texts{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+    align-items: center;
+    position: relative;
+  }
+  &__titles{
+    font-size: 21px;
+    color: #67645e;
+    margin-bottom: 5px;
+  }
+  &__text{
+    font-size: 20px;
+    color: #67645e;
+  }
+  &__price{
+    font-size: 21px;
+    color: #67645e;
+  }
+}
