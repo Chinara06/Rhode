@@ -2,60 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e582fe2b-6e5a-458e-b7e2-c68e78509e3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loyout/Footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loyout/Header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loyout/Loyout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/About/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/All/All.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Auth/Login/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Auth/Register/Register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Cart/Cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Future/Future.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Lip/Lip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/More/More.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/OneLip/OneLip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/OneSets/OneSets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/OneSkin/OneSkin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Search/Search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sets/Sets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Shop/Shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Skin/Skin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/all/all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/auth/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/lip/lip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/sets/sets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/skin/skin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/about.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/all.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/cart.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/future.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/lip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/more.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/register.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/search.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sets.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/shop.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/skin.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/axios.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loyout/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loyout/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loyout/Loyout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loyout/Loyout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About/About.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/All/All.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/All/All.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Auth/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Auth/Login/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Auth/Register/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Auth/Register/Register.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cart/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Cart/Cart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Future/Future.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Future/Future.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Lip/Lip.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Lip/Lip.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/More/More.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/More/More.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/OneLip/OneLip.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/OneLip/OneLip.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/OneSets/OneSets.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/OneSets/OneSets.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/OneSkin/OneSkin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/OneSkin/OneSkin.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Search/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Search/Search.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sets/Sets.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sets/Sets.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Shop/Shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Shop/Shop.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Skin/Skin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Skin/Skin.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,6 +195,20 @@
       <workItem from="1724133075271" duration="640000" />
       <workItem from="1724133776489" duration="1848000" />
       <workItem from="1724135867155" duration="672000" />
+      <workItem from="1724179740575" duration="1981000" />
+      <workItem from="1724314792890" duration="32000" />
+      <workItem from="1724321852994" duration="559000" />
+      <workItem from="1724328994428" duration="26000" />
+      <workItem from="1724329083861" duration="328000" />
+      <workItem from="1724329729416" duration="439000" />
+      <workItem from="1724503165186" duration="8000" />
+      <workItem from="1724520261275" duration="1324000" />
+      <workItem from="1724582715429" duration="7000" />
+      <workItem from="1725013598873" duration="713000" />
+      <workItem from="1725016641129" duration="546000" />
+      <workItem from="1725089588006" duration="92000" />
+      <workItem from="1725960246679" duration="231000" />
+      <workItem from="1726124489240" duration="49000" />
     </task>
     <servers />
   </component>
